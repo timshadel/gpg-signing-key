@@ -2,14 +2,13 @@
 
 This is my GPG signing key for personal use. You can check that every commit in this repository is "[Verified](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/about-commit-signature-verification)" by the same key.
 
-Key ID: 40EA4F810FD1BD76
-Key Type: ed25519
-Fingerprint: A2C2 76F2 B76E 43E0 CC13  2E86 40EA 4F81 0FD1 BD76
-
-Subkeys: 3C65BAE3AD887087, 3333DEA8C91019DA
-Subkeys Expire: 05 Sept 2022
-
-UserID: Tim Shadel <timshadel@gmail.com>
+| Key ID | 40EA4F810FD1BD76 |
+| :--- | :--- |
+| Key Type | ed25519 |
+| Fingerprint | A2C2 76F2 B76E 43E0 CC13  2E86 40EA 4F81 0FD1 BD76 |
+| Subkeys | 3C65BAE3AD887087, 3333DEA8C91019DA |
+| Subkeys Expire | 05 Sept 2022 |
+| UserID | Tim Shadel <timshadel@gmail.com> |
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
