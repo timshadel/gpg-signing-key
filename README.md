@@ -1,5 +1,7 @@
 # gpg-signing-key
 
+## Personal
+
 This is my GPG signing key for personal use. You can check that every commit in this repository is "[Verified](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/about-commit-signature-verification)" by the same key.
 
 | Key ID | 40EA4F810FD1BD76 |
@@ -30,5 +32,40 @@ Tuvx0slQB5dCRzX04zWdzk+VpLFtf87EfMXkvwNQpAEAhtOC0vrcgygjE4nNtrzB
 u63O5DYsuofSS3pqi3DCq3MBAMUBwVIbGJ6Oe9LIYh6OGKtKUUUowIw73QUU/sG5
 DRMH
 =qsix
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+## Professional
+
+This is my GPG signing key for professional use.
+
+| Key ID | 354FA21C893E826A |
+| :--- | :--- |
+| Key Type | ed25519 |
+| Fingerprint | 7F57 BBF1 9DEE 0D79 F3F5  E804 354F A21C 893E 826A |
+| Subkeys | 104933FDF00A4D1A, 8AC315FBD75CB2BB |
+| Subkeys Expire | 26 Sept 2022 |
+| UserID | Tim Shadel (Professional Identity) <tim@daylogger.com> |
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYU/qIxYJKwYBBAHaRw8BAQdAvfbEai8yhlTxVXPBxwUJiZmbH3ilRFxOhrn+
+dkHcevm0NlRpbSBTaGFkZWwgKFByb2Zlc3Npb25hbCBJZGVudGl0eSkgPHRpbUBk
+YXlsb2dnZXIuY29tPoiUBBMWCgA8FiEEf1e78Z3uDXnz9egENU+iHIk+gmoFAmFP
+6iMCGwMFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheAAAoJEDVPohyJPoJqkCkB
+AOsPmixolUp10qxaUrkoAlQi+IWPXWbYIuDKGKnPat5bAP9tDjSE9J1amboCiYJR
+QqKeRKZNtZ6MJLH5qUFVHQebC7g4BGFP6iMSCisGAQQBl1UBBQEBB0DdL+0wO6l8
+LC1utaCQLfDq6yTXj/MVGFm55bGql3Y1PgMBCAeIfgQYFgoAJgIbDBYhBH9Xu/Gd
+7g158/XoBDVPohyJPoJqBQJhT+tOBQkB4TSrAAoJEDVPohyJPoJqirIBAPxDYY1z
+M24M4pPp9iKo9D5BIlx+oftonEXC1bZpTnvTAQCOGsu4mBW6kNW00HngItvX/GJ0
+qDvqpDAE4pZ0TQcgBLgzBGFP61AWCSsGAQQB2kcPAQEHQLbVx/uUi8hluGXXkAL3
+GWm9/BnUnmrT1/ey5AqR37cpiPUEGBYKACYWIQR/V7vxne4NefP16AQ1T6IciT6C
+agUCYU/rUAIbAgUJAeEzgACBCRA1T6IciT6CanYgBBkWCgAdFiEEGjtGkaN80Xts
+8SA4isMV+9dcsrsFAmFP61AACgkQisMV+9dcsrs40gD+NnFc71t0nZlZWvcK4pWH
+d/pKcUA7Uol5LvBHPSp7k84BAPrmfFRVJf4Q/bgc6zCMFeRy7yVv3Jg7YK/mQJRZ
+EMcAXeIBAPH2CN34wduhjkecuBI82w5x8wEQyMmk//bl4oW7hXk3AP9c0lSFzt9I
+L5HtPgYM6Ik64IbZA+GTFCDS5OPNDRsKBA==
+=R5ZB
 -----END PGP PUBLIC KEY BLOCK-----
 ```
